@@ -30,8 +30,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="NPOI">
+      <HintPath>..\ExaminationUI\Adddll\NPOI.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -41,6 +45,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PublicClass.cs" />
+    <Compile Include="tbAnswerCardManager.cs" />
+    <Compile Include="TbClassManager.cs" />
+    <Compile Include="TbImagesManager.cs" />
+    <Compile Include="TbObjectiveTopicManager.cs" />
+    <Compile Include="TbQuestionTypesManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ExaminationModels\ExaminationModels.csproj">
+      <Project>{67628de4-921a-4a52-9491-35d627f391db}</Project>
+      <Name>ExaminationModels</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
