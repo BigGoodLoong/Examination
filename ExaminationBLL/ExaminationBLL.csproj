@@ -51,6 +51,9 @@
     <Compile Include="TbImagesManager.cs" />
     <Compile Include="TbObjectiveTopicManager.cs" />
     <Compile Include="TbQuestionTypesManager.cs" />
+    <Compile Include="TbResultManager.cs" />
+    <Compile Include="TbScoreManager.cs" />
+    <Compile Include="TbSpecialityManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ExaminationModels\ExaminationModels.csproj">
