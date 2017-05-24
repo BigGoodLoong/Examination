@@ -1,0 +1,5 @@
+D:\Examination\ExaminationBLL\bin\Debug\ExaminationBLL.dll
+D:\Examination\ExaminationBLL\bin\Debug\ExaminationBLL.pdb
+D:\Examination\ExaminationBLL\obj\Debug\ExaminationBLL.csprojResolveAssemblyReference.cache
+D:\Examination\ExaminationBLL\obj\Debug\ExaminationBLL.dll
+D:\Examination\ExaminationBLL\obj\Debug\ExaminationBLL.pdb
