@@ -54,6 +54,7 @@
     <Compile Include="TbResultManager.cs" />
     <Compile Include="TbScoreManager.cs" />
     <Compile Include="TbSpecialityManager.cs" />
+    <Compile Include="TbStudentManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ExaminationModels\ExaminationModels.csproj">
