@@ -57,6 +57,10 @@
     <Compile Include="TbStudentManager.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ExaminationDAL\ExaminationDAL.csproj">
+      <Project>{742C4F9D-C66B-4F3D-ACB3-D1657CCEE63C}</Project>
+      <Name>ExaminationDAL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ExaminationModels\ExaminationModels.csproj">
       <Project>{67628de4-921a-4a52-9491-35d627f391db}</Project>
       <Name>ExaminationModels</Name>
