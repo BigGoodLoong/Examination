@@ -1,0 +1,135 @@
+a:link {
+	font-size: 12px !important; text-decoration: none;
+}
+a:visited {
+	font-size: 12px !important; text-decoration: none;
+}
+a:hover {
+	font-size: 12px !important; text-decoration: underline !important;
+}
+a:active {
+	font-size: 12px !important; text-decoration: none;
+}
+.explain {
+	color: blue !important; font-size: 13px !important;
+}
+a.explain:link {
+	color: blue !important; font-size: 12px !important; text-decoration: none;
+}
+a.explain:visited {
+	font-size: 12px !important; text-decoration: none;
+}
+a.explain:hover {
+	font-size: 12px !important; text-decoration: underline !important;
+}
+a.explain:active {
+	font-size: 12px !important; text-decoration: none;
+}
+.newMenuNav > a {
+	font-weight: bold !important;
+}
+.newMenuNav {
+	font-weight: bold !important; margin-right: 20px !important; margin-left: 20px !important;
+}
+a.topNav:link {
+	font-family: 宋体 !important; font-size: 12px !important; font-weight: bold !important; text-decoration: none !important; margin-right: 20px; margin-left: 20px;
+}
+a.topNav:visited {
+	font-family: 宋体 !important; font-size: 12px !important; font-weight: bold !important; text-decoration: none !important; margin-right: 20px; margin-left: 20px;
+}
+a.topNav:hover {
+	font-family: 宋体 !important; font-size: 12px !important; font-weight: bold !important; text-decoration: underline !important; margin-right: 20px; margin-left: 20px;
+}
+a.topNav:active {
+	font-family: 宋体 !important; font-size: 12px !important; font-weight: bold !important; text-decoration: none !important; margin-right: 20px; margin-left: 20px;
+}
+a.topNav1:link {
+	font-size: 12px !important; text-decoration: none !important;
+}
+a.topNav1:visited {
+	font-size: 12px !important; text-decoration: none !important;
+}
+a.topNav1:hover {
+	font-size: 12px !important; text-decoration: none !important;
+}
+a.topNav1:active {
+	font-size: 12px !important; text-decoration: none !important;
+}
+a.news:link {
+	font-size: 13px !important; text-decoration: none;
+}
+a.news:visited {
+	font-size: 13px !important; text-decoration: none;
+}
+a.news:hover {
+	font-size: 13px !important; text-decoration: underline !important;
+}
+a.news:active {
+	font-size: 13px !important; text-decoration: none;
+}
+a.operation:link {
+	font-size: 12px !important; text-decoration: none;
+}
+a.operation:visited {
+	font-size: 12px !important; text-decoration: none;
+}
+a.operation:hover {
+	font-size: 12px !important; text-decoration: underline !important;
+}
+a.operation:active {
+	font-size: 12px !important; text-decoration: none;
+}
+a.header:link {
+	font-size: 14px !important; font-weight: bold; text-decoration: none;
+}
+a.header:visited {
+	font-size: 14px !important; font-weight: bold; text-decoration: none;
+}
+a.header:hover {
+	font-size: 14px !important; font-weight: bold; text-decoration: underline !important;
+}
+a.header:active {
+	font-size: 14px !important; font-weight: bold; text-decoration: none;
+}
+a.more:link {
+	font: 9pt/normal Verdana; color: gray; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.more:visited {
+	font: 9pt/normal Verdana; color: gray; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.more:hover {
+	font: 9pt/normal Verdana; text-decoration: underline; font-size-adjust: none; font-stretch: normal;
+}
+a.more:active {
+	font: 9pt/normal Verdana; color: gray; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.top {
+	color: rgb(255, 255, 153); line-height: 26px; font-weight: bold !important; text-decoration: none; vertical-align: middle;
+}
+a.top:hover {
+	font: bold 9pt/normal Verdana, ????; color: rgb(255, 255, 153); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.nav:link {
+	font: bold 10pt/30px Verdana !important; color: rgb(14, 87, 146) !important; text-decoration: none !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+a.nav:visited {
+	font: bold 10pt/30px Verdana !important; color: rgb(14, 87, 146) !important; text-decoration: none !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+a.nav:hover {
+	font: bold 10pt/30px Verdana !important; color: rgb(14, 87, 146) !important; text-decoration: underline !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+a.nav:active {
+	font: bold 10pt/30px Verdana !important; color: rgb(14, 87, 146) !important; text-decoration: none !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+a.BottomNav:link {
+	font: 9pt/30px Verdana !important; color: rgb(7, 107, 146) !important; text-decoration: none !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+a.BottomNav:visited {
+	font: 9pt/30px Verdana !important; color: rgb(7, 107, 146) !important; text-decoration: none !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+a.BottomNav:hover {
+	font: 9pt/30px Verdana !important; color: rgb(7, 107, 146) !important; text-decoration: underline !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+a.BottomNav:active {
+	font: 9pt/30px Verdana !important; color: rgb(7, 107, 146) !important; text-decoration: none !important; font-size-adjust: none !important; font-stretch: normal !important;
+}

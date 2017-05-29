@@ -1,0 +1,135 @@
+root {
+	display: block;
+}
+body {
+	margin: 0px; padding: 0px; line-height: 22px; font-family: 宋体; font-size: 9pt;
+}
+td {
+	white-space: normal !important; -ms-word-break: break-all !important;
+}
+.cell0 {
+	margin: 0px !important; border: 0px currentColor !important; border-collapse: collapse !important;
+}
+.cell0 td {
+	padding: 0px !important;
+}
+.cell1 {
+	margin: 0px !important; border: 0px solid red !important; text-align: center; border-collapse: collapse !important;
+}
+.cell1 td {
+	padding: 1px !important; border: 0px solid green !important;
+}
+.generalInfo {
+	font-size: 12px !important;
+}
+.mark {
+	font-size: 12px !important; font-weight: bold;
+}
+.talkContent {
+	line-height: 24px; font-family: 宋体; font-size: 12px;
+}
+.talkContent img {
+	max-width: 690px;
+}
+.mainPanel {
+	margin: 0px !important; padding: 0px !important; border: 1px solid gray;
+}
+.tip {
+	color: gray; font-family: 宋体; font-size: 9pt;
+}
+.threadColumn td {
+	border: 0px solid red !important;
+}
+.special1 td {
+	padding: 0px !important; height: 15px !important; line-height: 15px !important;
+}
+.navButton {
+	height: 30px !important; margin-top: 3px; margin-right: 10px;
+}
+.w10 {
+	width: 10%;
+}
+.w20 {
+	width: 20%;
+}
+.w30 {
+	width: 30%;
+}
+.w40 {
+	width: 30%;
+}
+.w50 {
+	width: 50%;
+}
+.w60 {
+	width: 60%;
+}
+.w70 {
+	width: 70%;
+}
+.w80 {
+	width: 80%;
+}
+.w90 {
+	width: 90%;
+}
+.footer {
+	width: 100%; text-align: center; line-height: 18px !important; padding-top: 0px; padding-bottom: 0px;
+}
+.headLine {
+	font-size: 20px; font-weight: bold;
+}
+.fillBlank {
+	border-width: 0px 0px 1px; border-style: solid; border-color: black; width: 120px;
+}
+.commonSubmit {
+	width: 90px; height: 30px; font-weight: bold;
+}
+.answer {
+	color: brown; font-family: 宋体; font-size: 14px; font-style: normal;
+}
+.questionHead {
+	font-weight: bold;
+}
+.markup {
+	color: green;
+}
+.choiceTitle {
+	font-size: 14px !important;
+}
+.choiceTitle span {
+	font-size: 14px !important;
+}
+.choiceTitle p {
+	display: inline !important;
+}
+.dialA {
+	border-radius: 5px; border: 1px solid rgb(204, 204, 204); width: 21px; height: 21px; text-align: center; line-height: 25px; display: inline-block !important; background-color: rgb(147, 187, 209);
+}
+.dialA:hover {
+	border-radius: 5px; border: 1px solid rgb(147, 187, 209); transition:border 0.2s linear, box-shadow 0.5s linear; display: inline-block !important; cursor: pointer; box-shadow: 0px 0px 8px #93bbd1; background-color: rgb(147, 187, 209); -moz-box-shadow: 0 0 8px #93bbd1; -webkit-box-shadow: 0 0 8px #93bbd1; -moz-transition: border linear .2s, -moz-box-shadow linear .5s; -webkit-transition: border linear .2s, -webkit-box-shadow linear .5s;
+}
+.dialB {
+	border-radius: 5px; border: 1px solid rgb(204, 204, 204); width: 21px; height: 21px; text-align: center; line-height: 25px; display: inline-block !important; background-color: rgb(213, 213, 213);
+}
+.dialB:hover {
+	border-radius: 5px; border: 1px solid rgb(147, 187, 209); transition:border 0.2s linear, box-shadow 0.5s linear; display: inline-block !important; cursor: pointer; box-shadow: 0px 0px 8px #93bbd1; background-color: rgb(147, 187, 209); -moz-box-shadow: 0 0 8px #93bbd1; -webkit-box-shadow: 0 0 8px #93bbd1; -moz-transition: border linear .2s, -moz-box-shadow linear .5s; -webkit-transition: border linear .2s, -webkit-box-shadow linear .5s;
+}
+.dialC {
+	border-radius: 5px; border: 1px solid red !important;
+}
+.dialC:hover {
+	
+}
+.topTip {
+	border: 0px solid red; width: 120px; height: 22px; color: rgb(50, 96, 162); overflow: hidden; padding-left: 20px; font-weight: bold; display: inline-block;
+}
+.topExamCase1 {
+	font-weight: bold;
+}
+.topExamCase2 {
+	color: blue; font-weight: bold;
+}
+.sell {
+	color: orangered;
+}
