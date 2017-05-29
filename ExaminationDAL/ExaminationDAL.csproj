@@ -47,6 +47,10 @@
     <Compile Include="TbImageService.cs" />
     <Compile Include="TbObjectiveTopicService.cs" />
     <Compile Include="TbQuestionTypeService.cs" />
+    <Compile Include="TbResultService.cs" />
+    <Compile Include="TbScoreService.cs" />
+    <Compile Include="TbSpecialityService.cs" />
+    <Compile Include="TbStudentService.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
