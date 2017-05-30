@@ -58,6 +58,7 @@
     <Compile Include="TbSubjectManager.cs" />
     <Compile Include="TbTeacherManager.cs" />
     <Compile Include="TbTestPaperManager.cs" />
+    <Compile Include="TbUserManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ExaminationDAL\ExaminationDAL.csproj">
