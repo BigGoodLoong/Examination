@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ExaminationUI", "ExaminationUI\", "{076E06A8-A3F2-48C8-995E-EAB2C92363A2}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{edcb2ae5-d2a5-49c4-a782-ed65d5e97769}|ExaminationBLL.dll;{742C4F9D-C66B-4F3D-ACB3-D1657CCEE63C}|ExaminationDAL.dll;{67628DE4-921A-4A52-9491-35D627F391DB}|ExaminationModels.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_59309"
 		Debug.AspNetCompiler.PhysicalPath = "ExaminationUI\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59309\"
