@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -55,6 +56,15 @@
     <Compile Include="TbTeacherService.cs" />
     <Compile Include="TbTestPaperService.cs" />
     <Compile Include="TbUserService.cs" />
+<<<<<<< HEAD
+=======
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ExaminationModels\ExaminationModels.csproj">
+      <Project>{67628de4-921a-4a52-9491-35d627f391db}</Project>
+      <Name>ExaminationModels</Name>
+    </ProjectReference>
+>>>>>>> 5a3cc96dbc7fc6c57b3e884a98217a41461d55dd
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

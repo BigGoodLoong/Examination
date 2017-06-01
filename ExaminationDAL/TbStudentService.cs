@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using ExaminationModels;
 using System.Data.SqlClient;
 using System.Data;
+using ExaminationDAL;
 
 namespace ExaminationDAL
 {
