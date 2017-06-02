@@ -2,4 +2,3 @@ D:\Examination\ExaminationModels\bin\Debug\ExaminationModels.dll
 D:\Examination\ExaminationModels\bin\Debug\ExaminationModels.pdb
 D:\Examination\ExaminationModels\obj\Debug\ExaminationModels.dll
 D:\Examination\ExaminationModels\obj\Debug\ExaminationModels.pdb
-D:\Examination\ExaminationModels\obj\Debug\ExaminationModels.csprojResolveAssemblyReference.cache
